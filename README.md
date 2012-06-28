@@ -7,9 +7,9 @@ Welcome to the Secret Smithsonian project
 ## Mockups
 
 
-![Places](http://onm.voanews.com/html5/demos/jqm/screenshots/Place-1.jpg "Places")
+![Places](http://onm.voanews.com/html5/demos/jqm/screenshots/Places.jpg "Places")
 
-![Place Detail](http://onm.voanews.com/html5/demos/jqm/screenshots/Places.jpg "Place Detail")
+![Place Detail](http://onm.voanews.com/html5/demos/jqm/screenshots/Place-1.jpg "Place Detail")
 
 ![Badges](http://onm.voanews.com/html5/demos/jqm/screenshots/Badges.jpg "Badges")
 
