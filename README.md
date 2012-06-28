@@ -3,9 +3,15 @@
 
 Welcome to the Secret Smithsonian project
 
-# First-level heading
-## Second-level heading
-### Third-level heading
-#### fourth-level heading
+## Purpose
+## Mockups
+
+![Badges](http://onm.voanews.com/html5/demos/jqm/screenshots/Badges.jpg "Badges")
+![Places](http://onm.voanews.com/html5/demos/jqm/screenshots/Place-1.jpg "Places")
+![Place Detail](http://onm.voanews.com/html5/demos/jqm/screenshots/Places.jpg "Place Detail")
+
+
+### Third Level Heading
+#### Fourth-level Heading
 
 still going
